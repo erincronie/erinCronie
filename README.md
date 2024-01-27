@@ -1,4 +1,4 @@
-# Hello World, I'm [Your Name]! 🌟
+# Hello World, I'm Erin! 🌟
 
 👩‍💻 Journey into Tech: From Dreams to Reality 🚀
 
@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm a freshly minted Software Engineer, armed with
 
 ### Here's a Fun Coding GIF:
 
-![Coding GIF](Link to a fun coding-related GIF)
+![Coding GIF](https://gifdb.com/gif/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.html)
 
 

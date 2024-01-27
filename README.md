@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm a freshly minted Software Engineer, armed with
 
 ### Here's a Fun Coding GIF:
 
-![Coding GIF](https://gifdb.com/gif/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.html)
+![Coding GIF](https://gifdb.com/gif/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.html?embed=true)
 
 

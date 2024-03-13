@@ -1,6 +1,6 @@
 # Hi there, I'm Erin! 👋
 
-👩‍💻 Software Engineer | 🌟 Exploring Tech | 🚀 Creating Solutions
+👩‍💻 Software Developer | 🌟 Exploring Tech | 🚀 Creating Solutions
 
 Welcome to my GitHub! I'm on an exciting journey in tech, armed with fresh skills and boundless enthusiasm.
 
@@ -10,8 +10,7 @@ Welcome to my GitHub! I'm on an exciting journey in tech, armed with fresh skill
 - 💻 Building Naramata Vineyard to hone Google Cloud skills.
 - 💡 Open to impactful collaborations.
 - 📚 Seeking advice from tech veterans.
-- 
-- 📫 Let's connect: erincronie@gmail.com
+- 📫 Email me: erincronie@gmail.com
 
 ### Contact Link! 🤝
 

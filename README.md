@@ -1,22 +1,18 @@
 # Hi there, I'm Erin! 👋
 
-👩‍💻 Software Developer | 🌟 Exploring Tech | 🚀 Creating Solutions
+I'm a tech enthusiast, web developer, and the founder of Cloud9 Calm Co., where we specialize in web development and eCommerce solutions. With a background in teaching at BrainStation and providing support for Shopify Plus merchants, I bring a wealth of experience and expertise to the table.
 
-Welcome to my GitHub! I'm on an exciting journey in tech, armed with fresh skills and boundless enthusiasm.
+## About Me
 
-### About Me 🌈
+- Founder of Cloud9 Calm Co.
+- Former Teaching Assistant at BrainStation
+- Experience in Shopify Plus Support
 
-- 🎓 Graduated in Software Engineering.
-- 💻 Building Naramata Vineyard to hone Google Cloud skills.
-- 💡 Open to impactful collaborations.
-- 📚 Seeking advice from tech veterans.
-- 📫 Email me: erincronie@gmail.com
+## Get in Touch
 
-### Contact Link! 🤝
+📧 Email: erin@cloud9calm.com
 
-- [LinkedIn](https://www.linkedin.com/in/erin-cronie/)
-- [Instagram](https://www.instagram.com/cloud9calm/)
-- [Personal Site](https://erincronie.me/)
+Let's connect and collaborate on exciting projects together! Feel free to reach out if you have any questions or opportunities to discuss.
 
 
 
